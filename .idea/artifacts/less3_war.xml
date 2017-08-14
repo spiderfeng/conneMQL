@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="less3:war">
+    <output-path>$PROJECT_DIR$/less3/target</output-path>
+    <root id="archive" name="less3.war">
+      <element id="artifact" artifact-name="less3:war exploded" />
+    </root>
+  </artifact>
+</component>
